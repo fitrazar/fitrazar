@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Web Developer</h1>
 <h3 align="center">A passionate frontend developer & backend developer from Indonesia</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fitrazar" alt="fitrazar" /></a> </p>
-
 - 🔭 I’m currently working on [Komunitas IT Purwakarta](https://komitpwk.my.id)
 
 - 🌱 I’m currently learning **React Native Course**
