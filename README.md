@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fitrazar&label=Profile%20views&color=0e75b6&style=flat" alt="fitrazar" /> </p>
 
-- 🔭 I’m currently working on [Komunitas IT Purwakarta](https://komitpwk.my.id)
+- 🔭 I’m currently working on [Komunitas IT Purwakarta](https://itso.my.id)
 
 - 🌱 I’m currently learning **React Native Course**
 
