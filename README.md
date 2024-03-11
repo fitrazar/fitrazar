@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fitrazar&label=Profile%20views&color=0e75b6&style=flat" alt="fitrazar" /> </p>
 
-- 🔭 I’m currently working on [Komunitas IT Purwakarta](https://itso.my.id)
+- 🔭 I’m currently working on [IT Solution Indonesia](https://itso.my.id)
 
 - 🌱 I’m currently learning **React Native Course**
 
 - 👨‍💻 All of my projects are available at [https://zarpedia.my.id](https://zarpedia.my.id)
 
-- 📝 I regularly write articles on [https://itso.my.id](https://itso.my.id)
+- 📝 I regularly write articles on [IT Solution Indonesia](https://itso.my.id)
 
 - 📫 How to reach me **fitra6751@gmail.com**
 
