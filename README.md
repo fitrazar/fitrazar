@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://zarpedia.my.id](https://zarpedia.my.id)
 
-- 📝 I regularly write articles on [IT Solution Indonesia](https://itso.my.id)
+- 📝 I regularly write articles on [IT Solution Indonesia](https://itsoindonesia.com)
 
 - 📫 How to reach me **fitra6751@gmail.com**
 
