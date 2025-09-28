@@ -4,7 +4,7 @@
 # 💫 About Me:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fitrazar&label=Profile%20views&color=0e75b6&style=flat" alt="fitrazar" /> </p>
 
-- 🔭 I’m currently working on [IT Solution Indonesia](https://itsoindonesia.com)
+- 🔭 I’m currently working on [SMKN 1 Cibatu Purwakarta](https://smknegeri1cibatu.sch.id) & [SMKN Jatiluhur Purwakarta](https://smknegerijatiluhur.sch.id)
 
 - 🌱 I’m currently learning **React Native Course**
 
