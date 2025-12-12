@@ -21,9 +21,16 @@
 
 
 # 📊 Stats:
+<!--
 ![](https://github-readme-stats.vercel.app/api?username=fitrazar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=fitrazar&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fitrazar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+ -->
+ 
+![GitHub Stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=fitrazar&theme=dark)
+![Top Languages](https://git-hub-stats-card-generator.vercel.app/api/svg?username=fitrazar&type=languages&theme=dark)
+![Contributions](https://git-hub-stats-card-generator.vercel.app/api/svg?username=fitrazar&type=contributions&theme=dark)
+![Top Repos](https://git-hub-stats-card-generator.vercel.app/api/svg?username=fitrazar&type=top-repos&theme=dark)
 
 ### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
