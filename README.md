@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Web Developer</h1>
+<h1 align="center">Hi 👋, I'm Full-Stack Developer</h1>
 <h3 align="center">A passionate frontend developer & backend developer from Indonesia</h3>
 
 # 💫 About Me:
